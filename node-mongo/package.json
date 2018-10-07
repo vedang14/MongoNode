@@ -1,0 +1,16 @@
+{
+  "name": "node-",
+  "version": "1.0.0",
+  "description": "Node MongoDB example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "author": "Vedang Bhardwaj",
+  "license": "ISC",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "mongodb": "^3.1.6"
+  }
+}
